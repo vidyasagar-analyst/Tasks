@@ -1,2 +1,2 @@
-console.error("Oops something wrong");
-console.log("try later ");
+console.log("The error is fixed");
+console.log("Now ready to use");
