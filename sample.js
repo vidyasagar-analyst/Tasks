@@ -1,2 +1,2 @@
-console.log("this page was created");
-console.log("Ready to deployy...");
+console.error("Oops something wrong");
+console.log("try later ");
